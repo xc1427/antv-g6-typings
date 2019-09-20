@@ -1,5 +1,5 @@
 # @antv/g6 typings
-declaration file for @antv/g6@~3.0.6
+declaration file based on @antv/g6@~3.0.6
 
 ## Usage
 
