@@ -9,3 +9,5 @@ create an ambient file which references "@xc1427/antv-g6-typings".
 /// <reference types="@xc1427/antv-g6-typings" />
 
 ```
+
+or simply copy the `g6.d.ts` file into your typescript project.
