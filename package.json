@@ -1,0 +1,16 @@
+{
+  "name": "@xc1427/antv-g6-typings",
+  "version": "0.0.1",
+  "main": "index.js",
+  "typings": "lib/g6.d.ts",
+  "repository": "https://github.com/xc1427/antv-g6-typings.git",
+  "author": "xc1427 <xichen1427@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.0.0",
+    "@umijs/fabric": "^1.1.10"
+  },
+  "files": [
+    "lib/"
+  ]
+}
