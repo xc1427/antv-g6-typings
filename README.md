@@ -1,7 +1,11 @@
+# @antv/g6 typings
+declaration file for @antv/g6@~3.0.6
+
 ## Usage
 
-create an ambient file which references "antv-g6-typings".
+create an ambient file which references "@xc1427/antv-g6-typings".
+
 ```js
-// This is the ambient file
-<reference types="antv-g6-typings" />
+/// <reference types="@xc1427/antv-g6-typings" />
+
 ```
